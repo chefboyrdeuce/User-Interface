@@ -64,3 +64,126 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.page-container{
+	width: 1200px;
+	
+}
+
+.nav-container{
+	margin-bottom:70px;
+	display:inline-block;
+	
+}
+
+.nav{
+	margin-top:35px;
+	margin-left: ;
+	display:inherit;
+	
+}
+
+.ul{
+	display:inline-block;
+	width: ;
+
+}
+
+li:first-child{
+	margin-left:73px;
+}
+
+li{
+	display: inline-block;
+	color:gray;
+	margin-right: 55px;
+	margin-left:;
+	vertical-align: middle;
+}
+
+.logo{
+	display: ;
+	margin-left: 40px;
+	margin-top: ;
+	vertical-align: middle;
+}
+
+.io-container{
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: 200px;
+	margin-bottom: 69px;
+}
+
+.left-io{
+	display:inline-block;
+	vertical-align: middle;
+	margin-left: 50p;
+}
+
+.io-text{
+	font-size:70px;
+	padding-top: -;
+	display:inline-block;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.io-button{
+	display:block;
+	border-radius: 1px;
+	padding: 5px 30px 5px 40px;
+	border-color: black
+}
+
+.code-circle{
+	display:inline-block;
+	vertical-align: middle;
+	margin-left: 82px;
+	position: static;
+}
+
+.bottom-container{
+	width: 1000px;
+	background-color: ;
+	margin-left: 65px;
+}
+
+.features{
+	width: 450px;
+	display: inline-block;
+}
+
+.about{
+	width: 450px;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+
+hr{
+	width: 876px;
+	margin-left: 0px;
+	margin-bottom: 30px;
+}
+
+.middle-img{
+	margin-bottom:30px;
+}
+
+.services{
+	width: 280px;
+	display: inline-block;
+	margin-right:20px;
+}
+
+.product{
+	width: 280px;
+	display: inline-block;
+	margin-right:20px;
+}
+
+.vision{
+	width: 280px;
+	display: inline-block;
+	margin-bottom: 30px;
+}
